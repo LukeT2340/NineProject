@@ -6,11 +6,11 @@ import { LocomotiveScrollProps } from '../../types'
 const LocomotiveParallax: React.FC<LocomotiveScrollProps> = ({ locoScrollRef, children }) => {
   const divRef = locoScrollRef as React.RefObject<HTMLDivElement>
 
-  // const mobile = useMediaQuery({ maxWidth: 1023 })
+  const mobile = useMediaQuery({ maxWidth: 1023 })
 
-  // if (mobile) {
-  //   return <div>{children}</div>
-  // }
+  if (mobile) {
+     return <div>{children}</div>
+  }
 
   useEffect(() => {
     if (divRef.current) {
