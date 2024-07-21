@@ -1,3 +1,7 @@
+# Side-note
+
+Have not used tailwind before so this was a learning experience for me. Additionally, I've worked the last 5 days so haven't had as much time as I would like to put into this. Thanks.
+
 # Channel 9 Immersive Boilerplate
 
 This is a boilerplate project for building immersive web applications using React, Tailwind CSS, TypeScript, and Vite.
