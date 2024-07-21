@@ -20,7 +20,7 @@ const App = () => {
   return (
     <>
       <div>
-        <main className="flex flex-col space-y-20 h-auto font-sans" style={{ 'margin-top': '44px'}}>
+        <main className="flex flex-col space-y-20 h-auto font-sans" style={{ marginTop: '44px'}}>
           <ArticleOne pageEndRef={pageEndRef} />
           <ArticleTwo />
           <ArticleThree />
