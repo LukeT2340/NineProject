@@ -13,7 +13,7 @@ const ArticleNine = () => {
         </section>
         <section className="md:order-2 order-1 md:w-1/2 w-full md:mt-0 mt-12">
             <div className="relative bg-light-green md:right-0 left-10 mx-10 md:mx-0 md:w-3/4">
-            <img className="relative right-10 top-10" src="./src/assets/images/article/ArticleImage9.png" alt="A girl sitting on a picnic blanket taking a selfie."></img>
+            <img className="relative right-10 top-10" src="/images/ArticleImage9.png" alt="A girl sitting on a picnic blanket taking a selfie."></img>
             </div>
         </section>
 

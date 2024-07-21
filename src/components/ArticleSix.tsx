@@ -11,7 +11,7 @@ const ArticleSix = () => {
         </section>
         <section className="md:order-2 order-1 md:w-1/2 w-full md:mt-0 mt-12">
         <div className="relative bg-light-pink md:right-0 left-10 mx-10 md:mx-0 md:w-3/4">
-        <img className="relative right-10 top-10" src="./src/assets/images/article/ArticleImage6.png" alt="A girl lying on a bed smiling"></img>
+        <img className="relative right-10 top-10" src="/images/ArticleImage6.png" alt="A girl lying on a bed smiling"></img>
             </div>
         </section>
 

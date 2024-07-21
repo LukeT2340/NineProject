@@ -5,7 +5,7 @@ const ArticleEight = () => {
         <h1 className="text-7xl font-bold text-dark-gray my-4">With eyes to the future</h1>
         <p className="text-xl md:w-1/2 text-center font-medium">Google is working towards correcting this legacy with its new Pixel 6 smartphone, 
         equipped with Real Tone, a camera calibrated to all skin tones.</p>
-        <img className="md:w-3/4" src="./src/assets/images/article/ArticleImage8.png" alt="Man with short blonde hair laying on the grass"></img>
+        <img className="md:w-3/4" src="/images/ArticleImage8.png" alt="Man with short blonde hair laying on the grass"></img>
         </article>
     )
 }

@@ -12,7 +12,7 @@ const ArticleTwo = () => {
             </p>
             </section>
             <section className="md:w-1/3 flex flex-col items-center">
-            <img src="./src/assets/images/article/ArticleImage2.png" alt="Picture of girl sitting on the grass"></img>
+            <img src="/images/ArticleImage2.png" alt="Picture of girl sitting on the grass"></img>
             </section>
         </article>
     )

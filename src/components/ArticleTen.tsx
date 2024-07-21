@@ -3,7 +3,7 @@ const ArticleTen = () => {
     return (
         <article className="flex md:flex-row flex-col bg-light-green h-auto items-center self-center justify-center w-full">
         <section className="order-2 md:order-1 md:w-1/2 flex flex-col items-center">
-            <img src="./src/assets/images/article/ArticleImage10.png" alt="Side image of woman" />
+            <img src="/images/ArticleImage10.png" alt="Side image of woman" />
         </section>
         <section className="order-1 md:order-2 md:w-1/2 flex flex-col md:items-center md:ml-0 ml-10 m-20">
             <h1 className="text-6xl text-dark-gray italic md:w-5/12 font-medium">

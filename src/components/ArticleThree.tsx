@@ -4,7 +4,7 @@ const ArticleThree = () => {
         <article className="pb-12 flex md:flex-row flex-col bg-white md:m-0 m-8 h-auto items-center self-center justify-center mx-10 md:w-4/5">
         <section className="md:w-7/12 flex flex-col items-center relative">
             <div className="relative bg-lighter-green md:right-0 right-10">
-                <img className="relative left-10 top-10" src="./src/assets/images/article/ArticleImage3.png" alt="Picture of girl sitting on the grass" />
+                <img className="relative left-10 top-10" src="/images/ArticleImage3.png" alt="Picture of girl sitting on the grass" />
             </div>
         </section>
         <section className="md:w-1/2 flex flex-col items-center">

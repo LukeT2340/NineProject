@@ -12,7 +12,7 @@ const ArticleFour = () => {
             <p className="text-dark-gray text-2xl italic w-5/12 font-medium p-0 pt-5">– Ragavi Ragavan</p>
         </section>
         <section className="md:w-1/2 flex flex-col items-center">
-            <img src="./src/assets/images/article/ArticleImage4.png" alt="Girl with curly hair smiling at the camera" />
+            <img src="/images/ArticleImage4.png" alt="Girl with curly hair smiling at the camera" />
         </section>
         </article>
     )

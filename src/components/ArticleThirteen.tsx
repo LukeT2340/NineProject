@@ -17,9 +17,9 @@ const ArticleThirteen = () => {
             </a>
             </section>
             <section className="flex flex-col md:w-2/3 lg:w-1/3 w-3/4 items-center">
-            <img src="./src/assets/images/article/ArticleImage13.png" alt="Group photo of four young people sitting on the grass " />
+            <img src="/images/ArticleImage13.png" alt="Group photo of four young people sitting on the grass " />
             <p className="p-0 text-dark-gray font-medium text-xl md:hidden inline-block">ADVERTISING FEATURE</p>
-            <img className="md:w-40 w-50 md:hidden inline" src="./src/assets/images/icons/Pixel6Icon.png" alt="Google Pixel 6 Icon" />
+            <img className="md:w-40 w-50 md:hidden inline" src="/icons/Pixel6Icon.png" alt="Google Pixel 6 Icon" />
             </section>
         </div>
         <div>

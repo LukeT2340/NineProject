@@ -3,7 +3,7 @@ const ArticleTwelve = () => {
     return (
         <article className="flex md:flex-row flex-col bg-white md:m-0 m-8 h-auto items-center self-center justify-center mx-10 md:w-4/5">
         <section className="md:w-5/12 flex flex-col items-center relative">
-            <img className="relative" src="./src/assets/images/article/ArticleImage12.png" alt="Group photo of four young people sitting on the grass " />
+            <img className="relative" src="/images/ArticleImage12.png" alt="Group photo of four young people sitting on the grass " />
         </section>
         <section className="md:w-1/2 flex flex-col items-center">
             <p className="md:w-1/2 leading-relaxed text-xl font-medium">
