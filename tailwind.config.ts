@@ -2,14 +2,20 @@ export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['"Google Sans Display"', 'sans-serif'],
+      },
       screens: {},
       colors: {
         'bright-cyan': '#58F6F4',
         'dark-blue': '#192958',
         'dark-gray': '#3C4043',
+        'light-gray': '#dee3e5',
         'light-green': '#deecc0',
         'lighter-green': '#e8f2f1',
-        'light-orange': '#FFE1C3'
+        'light-orange': '#FFE1C3',
+        'lighter-orange': '#fff0dd',
+        'light-pink': '#f2dcd8'
       },
       fontSize: {
         clampHeading: 'clamp(48px, 6vw, 92px)',
