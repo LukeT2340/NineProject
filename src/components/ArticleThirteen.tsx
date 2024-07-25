@@ -4,7 +4,7 @@ const ArticleThirteen = () => {
         <article className="flex flex-col bg-lighter-orange justify-between items-center h-auto">
         <div className="my-12 flex md:flex-row flex-col md:w-4/5 justify-center items-center">
             <section className="flex flex-col md:w-1/2 md:mx-0 mx-10 items-center">
-            <img className="md:w-40 w-50 md:inline hidden" src="./src/assets/images/icons/Pixel6Icon.png" alt="Google Pixel 6 Icon" />
+            <img className="md:w-40 w-50 md:inline hidden" src="/icons/Pixel6Icon.png" alt="Google Pixel 6 Icon" />
             <h1 className="text-center text-7xl font-bold text-dark-gray my-4">
                 Portraits photographed
                 beautifully and authentically
