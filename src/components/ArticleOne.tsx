@@ -14,7 +14,7 @@ const ArticleOne: React.FC<ArticleOneProps> = ({ pageEndRef }) => {
     }
 
     return (
-        <article className="flex md:flex-row flex-col bg-white md:m-0 m-8 self-start items-center md:w-5/6 md:space-x-20">
+        <article className="flex md:flex-row flex-col bg-white md:m-0 m-8 self-start items-center md:items-stretch md:w-5/6 md:space-x-20 h-auto">
         <img className="order-2 md:order-2 md:me-12 md:w-2/3" src="/images/ArticleImage1.png" alt="Picture of woman laying on grass"/>
         <section className="order-1 md:order-2 flex flex-col justify-center md:items-start items-center lg:w-1/3 md:w-4/6 w-5/6 md:text-left text-center">
             <div className="flex items-center">
